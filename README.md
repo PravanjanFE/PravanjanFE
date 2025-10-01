@@ -36,7 +36,16 @@ This fascination has driven me to delve deeply into the complexities of human de
 
 ---
 
+## 🎁 Free Resources
+
+| <a href="https://startupideas.preview.softr.app/?autoUser=true&show-toolbar=true"><img src="./assets/startupIdeas.png" width="300" alt="Startup Idea Blueprint"/></a> | <a href="https://boatneck-skirt-bd1.notion.site/Nudges-Database-10ce42bd297580a98f9dd31ffd7a5bd1"><img src="./assets/nudges.png" width="300" alt="A Directory of Nudges & Biases"/></a> |
+|:---:|:---:|
+| **Startup Idea Blueprint** | **A Directory of Nudges & Biases** |
+
+
+---
 It's really nice to meet you.  
 I'm looking forward to getting to know you better.  
 
 **See you soon,**  
+<img src="./assets/signatureW.png" width="25%">
