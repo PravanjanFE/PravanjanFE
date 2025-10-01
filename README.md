@@ -1,5 +1,7 @@
 ## 👋 Hello there,
 
+<img src="./assets/Pravanjan_resize.jpg" alt="Cover-Image" width="350" align="right"/>
+
 I'm so glad to meet you.  
 I'm **Pravanjan Patnaik**, but you can call me **Prav**. I build exciting B2B digital products and games that people actually love using.  
 
