@@ -34,7 +34,9 @@ I believe we're in this wild era where even tiny teams can build massive busines
 
 I'm kind of obsessed with thinking about “thinking” (iykyk 👀).  
 
-This fascination has driven me to delve deeply into the complexities of human decision-making, even leading me to secure the **trademark for "Human Decision" in India**.  
+This fascination has driven me to delve deeply into the complexities of human decision-making, even leading me to secure the **trademark for "Human Decision" in India**. 
+
+For faster reply you can reach out to me at pravanjan.p@gmail.com (Mention from Github in subject)
 
 ---
 
