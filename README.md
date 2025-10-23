@@ -11,7 +11,7 @@ For the past 17 years, I've been helping startups turn their wild ideas into rea
 - Being part of the **World Design Organization (WDO)** - where some of the world's best designers hang out  
 - Judging **Glocha's climate change platform** (backed by **UN-Habitat**)  
 - Getting featured in **ResearchGate** for figuring out some clever zero-waste management solutions  
-- Have worked with brands like **ITC, Bayer, World Remit and Weill Cornell Medicine**  
+- Have worked with brands like **ITC, Bayer, World Remit and Weill Cornell Medicine (120+ Clients)**  
 
 I lead an amazing team that handles everything from massive projects to ongoing support work for a wide range of clients, from tiny startups to the companies on the **Forbes Top 10** list.  
 
